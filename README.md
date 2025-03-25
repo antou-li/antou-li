@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- PhD student at [Department of Human Ecology](https://www.humeco.m.u-tokyo.ac.jp/), The University of Tokyo
+- PhD student at [Department of Human Ecology](https://www.humeco.m.u-tokyo.ac.jp/), University of Tokyo
 - Interested in phonetics, phonology, field linguistics, historical linguistics and linguistic anthropology
 - Speaks Mandarin (native), English, Japanese, Lao
 - [Curriculum Vitae](https://sites.google.com/view/liziyang/curriculum-vitae), [ResearchGate](https://www.researchgate.net/profile/Ziyang-Li-11)
